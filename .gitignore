@@ -1,0 +1,42 @@
+# Environment variables and credentials
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+backup_*.log
+
+# Backup files
+backup-*
+*.tar.gz
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+.tmp/
+temp/
