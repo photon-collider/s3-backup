@@ -1,0 +1,11 @@
+# Ignore .env file containing secrets
+.env
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+backup-*
+
+# Ignore macOS system files
+.DS_Store
